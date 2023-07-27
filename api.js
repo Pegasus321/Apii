@@ -1,8 +1,3 @@
-
-
-export const api=[
-
-    // tab 1 i.e tropical
     {
         id:"1",
         homeMainPic: "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg?im_w=720",
@@ -2361,6 +2356,3 @@ export const api=[
         couple:true,
 
     },
-
-
-]
